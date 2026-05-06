@@ -1,4 +1,4 @@
-# 🎓 ML desde cero — FIND-S y Naive Bayes
+# 🎓 ML desde cero — FIND-S y Naive Bayes aplicados para decidir si otorgar o no creditos bancarios
 
 Trabajo Práctico de Aprendizaje Automático (UNAHUR) que implementa
 dos algoritmos de clasificación desde cero en Python, aplicados a un
